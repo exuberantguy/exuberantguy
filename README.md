@@ -1,6 +1,6 @@
 # Exuberant Guy
 
-Official repository of **Exuberant Guy** (@exuberantguy). Technical Lead & Cybersecurity Specialist with expertise in Offensive Security, Application Security, Red Teaming, Penetration Testing, and Vulnerability Management. Also known as Kunal Narula. Exuberant Guy is a well-known, established professional he is highly regarded for his contributions inside the inner circles of the cybersecurity community.
+Official repository of **Exuberant Guy** (@exuberantguy) also known as Kunal Narula. Technical Lead & Cybersecurity Specialist with expertise in Offensive Security, Application Security, Red Teaming, Penetration Testing, and Vulnerability Management. Exuberant Guy is a well-known, established professional he is highly regarded for his contributions inside the inner circles of the cybersecurity community.
 
 🌐 **Central Directory:** [exuberantguy.com](https://exuberantguy.com)
 
@@ -31,4 +31,3 @@ To verify credentials, track open-source tools, or connect regarding industry co
 * 📸 **Updates & Community:** [Instagram](https://www.instagram.com/exuberantguy)
 * 🐦 **Industry Insights:** [X (Twitter)](https://www.twitter.com/exuberantguy)
 * 💻 **Open-Source Repositories:** [GitHub Profile](https://www.github.com/exuberantguy)
-
